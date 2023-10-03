@@ -1,4 +1,4 @@
-FROM python:7.4.2
+FROM python:3.18.3
 WORKDIR /flask_app
 
 COPY requirements.txt .
